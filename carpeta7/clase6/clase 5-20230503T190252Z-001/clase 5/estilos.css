@@ -1,0 +1,64 @@
+header{
+    background-color: #BAF52F;
+}
+.nav .nav-item .nav-link{
+    color: black;
+}.img1{
+    height: 600px;
+}
+.img2{
+    height: 600px;
+}
+.img3{
+    height: 600px;
+}
+.tarjeta2{
+    margin-left: 51.3%;
+    margin-top: -16.4%;
+}
+h2{
+    margin-left: 31.4%;
+    margin-top: -0.5%;
+}
+.tarjeta3{
+    margin-top: 5.3%;
+}
+.tarjeta4{
+    margin-left: 51.3%;
+    margin-top: -16.4%;
+}
+.logito{
+    width:15% ;
+    margin-left:24.5%;
+    margin-top:-3.5%;
+    
+}
+.mapita{
+    margin-left: 7.4%;
+}
+
+.nav .nav-item .nav-link:hover{
+  color: green;  
+}
+
+.logito{
+    margin-left: 12px;
+    margin-top: 20px;
+    margin-top: -3%;
+    width: 190px;
+}
+.nav{
+    margin-top: -9%;
+}
+
+p {
+    text-align: center ;
+}
+.banner2{
+    height:50px;
+}
+span{
+   color: green;
+   font-size: 20px; 
+   
+}
